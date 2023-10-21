@@ -33,4 +33,5 @@ List any prerequisites or dependencies that users need to install before they ca
 Provide installation instructions, if any are needed. You may include code snippets, commands, or links to external resources.
 
 ```bash
-pip install your-chat-bot-package
+python3 openai_chat_bot.py
+```
